@@ -14,8 +14,11 @@
     justify-content: center;
     /* margin-left: 40px;
     margin-right: 40px; */
-    margin-left: 2.08vw;
-    margin-right: 2.08vw;
+    /* margin-left: 2.08vw;
+    margin-right: 2.08vw; */
+    /* position: fixed;
+    background: red;
+    width: 100vw; */
 }
 
 @media(max-width:800px){
@@ -81,6 +84,7 @@ a {
 
 .c-cont-nav{
     background: rgba(133, 140, 49, 1);
+
 }
 
 @media(max-width:800px){
